@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, it's Jochem (a.k.a. jocmeh) 👋
+
+- 👨‍💻 Head of Tech @ [NextGear](https://github.com/NextGear)
+- 🔭 I’m currently working on smart locks, GitLab CI config, k3s clusters, ...
+- 🌱 I’m currently learning Go
+- 💬 Ask me about AWS, Terraform, Ansible, Django, Django REST framework and Python in general
+- 😄 Pronouns: he/him
 
 <!--
 **jochem/jochem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
